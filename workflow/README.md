@@ -50,4 +50,4 @@ This workflow enables a chat-driven AI agent to interpret user intent and execut
 ---
 
 ## 🔐 Notes
-> This workflow is demonstrated using **generic resources and sanitized credentials**.
+>** All credentials and endpoints are sanitized for portfolio usage.**
